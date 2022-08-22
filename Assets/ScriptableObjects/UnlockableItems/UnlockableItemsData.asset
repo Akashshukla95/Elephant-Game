@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069f49edda06a48ba956da42621d21c0, type: 3}
+  m_Name: UnlockableItemsData
+  m_EditorClassIdentifier: 
+  unlockData:
+  - unlockableItems:
+    - itemName: Trees
+      itemSprite: {fileID: 21300000, guid: 0259cd9bf0d994a5ca8f42e3e2232b91, type: 3}
+      dialogue: {fileID: 11400000, guid: 9f9a6c76b544e486ba84ff743f2d1174, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Clouds
+      itemSprite: {fileID: 21300000, guid: f928a6318925249af9618b937f1b7229, type: 3}
+      dialogue: {fileID: 11400000, guid: 8c21f7a6b064c44ad9e7ba0c8525f282, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Grass
+      itemSprite: {fileID: 21300000, guid: 0df7a78b986ab497eb532f61a9ef7375, type: 3}
+      dialogue: {fileID: 11400000, guid: 289875ce3d59a4b479c866c3acd5cfac, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Rocks
+      itemSprite: {fileID: 21300000, guid: 2c8a9018646ed4c9f82fa793a7250ec4, type: 3}
+      dialogue: {fileID: 11400000, guid: 146740217744b4d0fba1ff6a8fa73bed, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Signboard
+      itemSprite: {fileID: 21300000, guid: e0ac093d673ac4bdca5a1633f9ee50ac, type: 3}
+      dialogue: {fileID: 11400000, guid: aa8cea818cf964db89aaf1c2e188f05c, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Flowers with Butterflies
+      itemSprite: {fileID: 21300000, guid: 1d6302e998e3342b59b1589848d2a1fb, type: 3}
+      dialogue: {fileID: 11400000, guid: e05c04c00582349c1b086626e5e2dce4, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Bird
+      itemSprite: {fileID: 21300000, guid: d4d8aa45a7b764f8daaf90367e24c0fd, type: 3}
+      dialogue: {fileID: 11400000, guid: 45e904e829f6f428ba5a5c8417fb18c2, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Mountains
+      itemSprite: {fileID: 21300000, guid: 9a6cb617ecd3a498fb43da3d8b56212f, type: 3}
+      dialogue: {fileID: 11400000, guid: a82f4b8fb9d2542b2a1004fa5792db49, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Beehive with Bees
+      itemSprite: {fileID: 21300000, guid: 03df7cbf398da406b9b41b0ebe9fd4ab, type: 3}
+      dialogue: {fileID: 11400000, guid: fbed94b36660f4f7ba95145c6573161f, type: 2}
+      totalPointsToUnlock: 15
+    - itemName: Bear
+      itemSprite: {fileID: 21300000, guid: 68cb9f41ce8504527b0f59ed37b76d45, type: 3}
+      dialogue: {fileID: 11400000, guid: 8852f111e06c84de780b3b66841f48b7, type: 2}
+      totalPointsToUnlock: 15
+  - unlockableItems:
+    - itemName: Grass
+      itemSprite: {fileID: 21300000, guid: 9c59f012494aa4ae8a94c8cbe5d893db, type: 3}
+      dialogue: {fileID: 11400000, guid: 0ae72bf94daa946a89a92d6c54402d41, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Trees
+      itemSprite: {fileID: 21300000, guid: 47b71d5f1f1c549888581bc4f54f2022, type: 3}
+      dialogue: {fileID: 11400000, guid: c461d9062751d4620b53fc6704716d52, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Clouds
+      itemSprite: {fileID: 21300000, guid: c021f30b9d4614bc4bd1aca5c18e17e2, type: 3}
+      dialogue: {fileID: 11400000, guid: f4ddd7b1754954ac48102f873a972bd0, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Flowers and Grasshopper
+      itemSprite: {fileID: 21300000, guid: 896ac7b102b554b3891b2aab99e6ad54, type: 3}
+      dialogue: {fileID: 0}
+      totalPointsToUnlock: 5
+    - itemName: Sun
+      itemSprite: {fileID: 21300000, guid: cccab3913e8b24db2aa19482e41e4d75, type: 3}
+      dialogue: {fileID: 11400000, guid: 87ca2ca9b3a8c45738a21a178861fc6d, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Rhino
+      itemSprite: {fileID: 21300000, guid: 9c4befdc6d212473e98a77d5bbc7d36c, type: 3}
+      dialogue: {fileID: 0}
+      totalPointsToUnlock: 10
+    - itemName: Zebra
+      itemSprite: {fileID: 21300000, guid: a6e7c1433ddc3466e8f78bac58408807, type: 3}
+      dialogue: {fileID: 11400000, guid: 699e65b5d67c5478d89a6c22f7232380, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Racoon
+      itemSprite: {fileID: 21300000, guid: a70ec55fc263844389b1cc970e257199, type: 3}
+      dialogue: {fileID: 11400000, guid: 065fd90d73d13446493c41c7eda43c89, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Giraffe
+      itemSprite: {fileID: 21300000, guid: 9982ce49b674043b3ab5b3b5f9e34656, type: 3}
+      dialogue: {fileID: 11400000, guid: e2b8625c763694eb2a16cc1e62f3bb38, type: 2}
+      totalPointsToUnlock: 15
+    - itemName: Peacock
+      itemSprite: {fileID: 21300000, guid: d3ad0191cac72494294b138591250ba7, type: 3}
+      dialogue: {fileID: 11400000, guid: edecfd22c323546a7b2b23d030858aac, type: 2}
+      totalPointsToUnlock: 15
+  - unlockableItems:
+    - itemName: Trees and Creepers
+      itemSprite: {fileID: 21300000, guid: 91707faf8e1794445aabb1e642166b39, type: 3}
+      dialogue: {fileID: 11400000, guid: b4c95adb9547a4e099da4c50ecccee96, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Clouds
+      itemSprite: {fileID: 21300000, guid: e79af5cecbc55455da8ef1938f440dd9, type: 3}
+      dialogue: {fileID: 11400000, guid: 32363fae7b25e4d2ba2606b41d8032a0, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Grass and Flowers
+      itemSprite: {fileID: 21300000, guid: b67ec8e7704fd44a5a808904f413d73e, type: 3}
+      dialogue: {fileID: 11400000, guid: 62cd87457fedb4720b7a025784ad2f4f, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Rocks
+      itemSprite: {fileID: 21300000, guid: 297e2062026b34ad5b41057c5d694d04, type: 3}
+      dialogue: {fileID: 11400000, guid: 88b1e46839c1c4507a33cf08fc6f1d72, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Snail
+      itemSprite: {fileID: 21300000, guid: bd6b4e4e688b948d6871e4c080802300, type: 3}
+      dialogue: {fileID: 11400000, guid: b911858881bee48ac922bea6b5ad7c80, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Hornbil with Birds
+      itemSprite: {fileID: 21300000, guid: 72ea551a51529414fa6f8110bb644686, type: 3}
+      dialogue: {fileID: 11400000, guid: 1a11695e260094e8297719857e5539ba, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Snake
+      itemSprite: {fileID: 21300000, guid: 745c0dc411e324bf2954e6a68ebcc369, type: 3}
+      dialogue: {fileID: 11400000, guid: 1949b24951b37480c9cf84f71ad341e0, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Rabbits
+      itemSprite: {fileID: 21300000, guid: f3408e86f4a8041b285dc34371a2949b, type: 3}
+      dialogue: {fileID: 11400000, guid: 0ff2bde1125c347b48c883c300f10fdf, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Tiger
+      itemSprite: {fileID: 21300000, guid: 19ef861b5b456452391c0276fb8dd427, type: 3}
+      dialogue: {fileID: 11400000, guid: 2a9702a1a6ce94b6aa22e06bf7ebc936, type: 2}
+      totalPointsToUnlock: 15
+    - itemName: Elephant
+      itemSprite: {fileID: 21300000, guid: 9d8d1df390e6f406dab19a48e57bcd59, type: 3}
+      dialogue: {fileID: 11400000, guid: 77a779b1f46584741942a88254dccf64, type: 2}
+      totalPointsToUnlock: 15
+  - unlockableItems:
+    - itemName: Trees
+      itemSprite: {fileID: 21300000, guid: b9913fe734d5248b693d704c6cf7a71e, type: 3}
+      dialogue: {fileID: 11400000, guid: 2f0cddbe00242402cb26299b53f9571c, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Clouds
+      itemSprite: {fileID: 21300000, guid: 86b55df105bb84f18af5cf073c990101, type: 3}
+      dialogue: {fileID: 11400000, guid: 279f609dd028a47be9d6237068999a1d, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Pebbles/Rock
+      itemSprite: {fileID: 21300000, guid: 4718e7bade95a4be0af5012fc6846e0e, type: 3}
+      dialogue: {fileID: 11400000, guid: 4e965c09e4f64453694414191636ddfc, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Bushes
+      itemSprite: {fileID: 21300000, guid: 5e241c8c8f22f4b1db12156419779e6e, type: 3}
+      dialogue: {fileID: 11400000, guid: 1164fdbeac6a0420a9ffd2752a89abc9, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Fruits/Flowers on Trees
+      itemSprite: {fileID: 21300000, guid: ba2fa7aacd39c43d8837be4831f97174, type: 3}
+      dialogue: {fileID: 11400000, guid: dcb79e1b8ee1f4307b39d2bfc4af3385, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Squirrel
+      itemSprite: {fileID: 21300000, guid: 408781910fb454eb8bbe9201f8eb6e51, type: 3}
+      dialogue: {fileID: 11400000, guid: 8874457899b8c4b9db610cd3696252b5, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Birds in Nest
+      itemSprite: {fileID: 21300000, guid: 76a964e80bf0f4dc882d4def06c09d1a, type: 3}
+      dialogue: {fileID: 11400000, guid: d046712c6c3bc4438a7d0f80c6b8c582, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Fox
+      itemSprite: {fileID: 21300000, guid: a513cf9f7c30a4499bced71d2748d9fd, type: 3}
+      dialogue: {fileID: 11400000, guid: a356600c00ce34ad4a6dddf050218cba, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Lioness with Cubs
+      itemSprite: {fileID: 21300000, guid: fb1a0533363884ac89e542cdece7fe8c, type: 3}
+      dialogue: {fileID: 11400000, guid: f4dfd6e75234547aaaf14dff16e2e77b, type: 2}
+      totalPointsToUnlock: 15
+    - itemName: Lion
+      itemSprite: {fileID: 21300000, guid: e2d4ee24b00cb4205ac2eefb068647af, type: 3}
+      dialogue: {fileID: 11400000, guid: 7ff5a34365e2445a7a4f3c5a41b275d6, type: 2}
+      totalPointsToUnlock: 15
+  - unlockableItems:
+    - itemName: Pebbles and Rock
+      itemSprite: {fileID: 21300000, guid: 9cf0fde08730647ce976cce6de228bb3, type: 3}
+      dialogue: {fileID: 11400000, guid: 7fd1943ed12fe442d8a7dfef80b5ab6a, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Trees
+      itemSprite: {fileID: 21300000, guid: 6d5b213c3dd804af484dca699e569198, type: 3}
+      dialogue: {fileID: 11400000, guid: 14561b33af3784e0cb26c387f73edde1, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Clouds
+      itemSprite: {fileID: 21300000, guid: fd8cdfa114ad0452084ffb4d415828e2, type: 3}
+      dialogue: {fileID: 11400000, guid: ab2413e842b434b028e327858b2f8506, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Bushes
+      itemSprite: {fileID: 21300000, guid: e13542758b3714434a5ae6f3d4f9b7df, type: 3}
+      dialogue: {fileID: 11400000, guid: e26c6b54763fc4bf591054f2a42d6a27, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Grass
+      itemSprite: {fileID: 21300000, guid: 2c44b04acd5f5481191e868404fbbefe, type: 3}
+      dialogue: {fileID: 11400000, guid: c2ba2dd9d4a6941a0a050ddc04f01238, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Pathway
+      itemSprite: {fileID: 21300000, guid: def561536077b45138ff9b5bb89e3ff4, type: 3}
+      dialogue: {fileID: 11400000, guid: dcd3f1ecaa0184ac0b4a4bb71967e3f5, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Mushrooms
+      itemSprite: {fileID: 21300000, guid: 4d419ed5638a64deab8bd6d306b91b6f, type: 3}
+      dialogue: {fileID: 11400000, guid: c2b784717fada48d3ace9656e04111bb, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Anthill and Ants
+      itemSprite: {fileID: 21300000, guid: 7e1830106348f4e20b3d8e0e543d10c0, type: 3}
+      dialogue: {fileID: 11400000, guid: 67109e479c1a646e691494f427564827, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Monkeys
+      itemSprite: {fileID: 21300000, guid: 485263be54c8a4a6795c108361d1ba9a, type: 3}
+      dialogue: {fileID: 11400000, guid: aa2a1824fc9c0497599609f5f616bb59, type: 2}
+      totalPointsToUnlock: 15
+    - itemName: Deer
+      itemSprite: {fileID: 21300000, guid: 88089c3887a8d4872818b5ea6cabe09e, type: 3}
+      dialogue: {fileID: 11400000, guid: 7940068adc2d7457e8186e06b6dba720, type: 2}
+      totalPointsToUnlock: 15
+  - unlockableItems:
+    - itemName: Trees
+      itemSprite: {fileID: 21300000, guid: 7d2a72a993fb14251b29d5ebc86c19bb, type: 3}
+      dialogue: {fileID: 11400000, guid: da22c9ff576434d49ae2b1b92e978ced, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Clouds
+      itemSprite: {fileID: 21300000, guid: eca9795b3703344a68f1c19308c65952, type: 3}
+      dialogue: {fileID: 11400000, guid: 4d7a463ffbfae43129d4dcf3d75bd87b, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Grass/Rocks
+      itemSprite: {fileID: 21300000, guid: 9d479190936744b4ab1e7aea0a9040ce, type: 3}
+      dialogue: {fileID: 11400000, guid: 5469d171a696c4a9d821af18b4146747, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Bushes
+      itemSprite: {fileID: 21300000, guid: 3bca80793c4164eea9cd93cf0c082708, type: 3}
+      dialogue: {fileID: 11400000, guid: 15d64f6b5836a43cb9e84722c05bb4c3, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: River
+      itemSprite: {fileID: 21300000, guid: f069dd217f4a1472a86d20be16b4253b, type: 3}
+      dialogue: {fileID: 11400000, guid: e07dc1d983b794c52be87ac2c55faee4, type: 2}
+      totalPointsToUnlock: 5
+    - itemName: Lotus
+      itemSprite: {fileID: 21300000, guid: 8d669d90acba44702a6fc339eb14283a, type: 3}
+      dialogue: {fileID: 11400000, guid: ee4f6b4982c394f459211d659c7542a5, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Fish
+      itemSprite: {fileID: 21300000, guid: a3ca5b88752334d60911f2bff922d5b3, type: 3}
+      dialogue: {fileID: 11400000, guid: d28865afd99e94c2aae9dd4a10025cc9, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Crocodile
+      itemSprite: {fileID: 21300000, guid: 03079abaa127940d58745bd505c038ff, type: 3}
+      dialogue: {fileID: 11400000, guid: 58023e588682e47fea8c7c73f71db329, type: 2}
+      totalPointsToUnlock: 10
+    - itemName: Ducks
+      itemSprite: {fileID: 21300000, guid: d5b033b7fec8147c3a184352d04b7bca, type: 3}
+      dialogue: {fileID: 11400000, guid: 8c6791fd20ec648cb91d2bec609b88bc, type: 2}
+      totalPointsToUnlock: 15
+    - itemName: Bridge
+      itemSprite: {fileID: 21300000, guid: 4db838393968647d2becc57eb80d77a6, type: 3}
+      dialogue: {fileID: 11400000, guid: c2c9a9b785d334cde947267f4b4772ce, type: 2}
+      totalPointsToUnlock: 15
